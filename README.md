@@ -5,7 +5,7 @@ Nel repository è possibile visionare anche una relazione dettagliata del proget
 ## Approccio e Linguaggi
 Questa base di dati è stata scritta interamente seguendo i paradagmi previsti per i database relazionali, partendo dall'idea da sviluppare e passando attraverso la stesura degli schemi 
 **E-R** fino alla scrittura vera e propria del codice *SQL*.  
-L'RDBMS utilizzato per lo sviluppo è: **MySQL** e la sintassi utilizzata per gli schemi è la "**Entity-Relationship** (aka **E-R**)".  
+L'RDBMS utilizzato per lo sviluppo è: **MySQL** e la sintassi utilizzata per gli schemi è la **Entity-Relationship** (aka **E-R**).  
 
 ## Scopo e Sviluppo
 Il database è stato portato a termine come progetto didattico per il corso di *Basi di Dati* presentato al secondo anno del corso di laurea in Informatica presso l'università di Padova.  
